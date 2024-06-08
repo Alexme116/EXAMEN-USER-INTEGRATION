@@ -7,4 +7,4 @@
 ![Image Description](src/assets/img/dashboard.png)
 
 ## Details
-![Image Description](src/assets/img/details.png)
+![Image Description](src/assets/img/detail.png)
